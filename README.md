@@ -6,7 +6,7 @@ solves a Elastodynamics problem.
 linear shape functions are used and it uses the Newmark scheme for time discretization.
 The code also calculates Eigen values and Eigen modes.
 
-Generated .vtu files can be visulaized in ParaView.
+Generated .vtu files are visulaized in ParaView.
 Check the video which shows an animation for results at 50 different time steps plotted using ParaView. Below are the images for some of the timesteps.
 
 https://user-images.githubusercontent.com/61206092/234785365-b46fcf87-8e47-481e-a3ac-18a9579e3702.mp4
