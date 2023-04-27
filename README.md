@@ -12,4 +12,4 @@ Check the video which shows an animation for results at 50 different time steps 
 
 Part2:
 is a non-linear FEM code for a finite strian mechanics problem showing material and geomtric non-linearity.
-St. Venenat-Kirchoff strian energy density function is impleented. Material and Geometric stiffness are calculated and then dirichlet boundary conditions are applied. Linear Hexahedral elements are used to create a mesh. Newton Raphson method is used to solve the equations. R=0 -> Kd-F=0 -> R*R^-1 = deltaD.
+St. Venenat-Kirchoff strian energy density function is impleented. Material and Geometric stiffness are calculated and then dirichlet boundary conditions are applied. Linear Hexahedral elements are used to create a mesh. Newton Raphson method is used to solve the equations. R*R^-1 = deltaD.
